@@ -1,3 +1,7 @@
 This is file1
 
+<<<<<<< HEAD
 Adding text in 3rd line on myfile1.txt from Git local.
+=======
+Adding text in 3rd line on myfile1.txt from GitHUB.
+>>>>>>> 2a11d69c8e32f4ec71f73a5795de0bf135218ec4
