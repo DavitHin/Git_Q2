@@ -1,0 +1,3 @@
+This is file2
+
+Adding text in 3rd line on myfile2.txt from Git local.
