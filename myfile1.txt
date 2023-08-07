@@ -1,1 +1,3 @@
 This is file1
+
+Adding text in 3rd line on myfile1.txt from GitHUB.
